@@ -1,0 +1,7 @@
+# 忽略所有附檔名是 .tpl.php 的檔案
+*.tpl.php
+
+/templates_c/*.*
+/demo
+/cashe
+config.php

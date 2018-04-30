@@ -1,0 +1,50 @@
+#sitebody{
+    width:600px;
+    margin:0 auto;
+    font-size:13px;
+}
+
+#header{
+    background-color:#FFD4D4;
+    height:80px;
+    text-align:center;
+    line-height:80px;
+}
+
+#sidebar_left{
+    background-color:#FFECC9;
+    width:120px;
+    height:400px;
+    text-align:center;
+    line-height:100px;
+    float:left;
+}
+
+#sidebar_right{
+    background-color:#FFECC9;
+    width:120px;
+    height:400px;
+    text-align:center;
+    line-height:100px;
+    float:right;
+}
+
+#content{
+    margin-left:120px;
+    margin-right:120px;
+    height:auto;
+    background-color:#F2FFF2;
+    text-align:left;
+    line-height:50px;
+}
+
+#footer{
+    clear:both;
+    background-color:#FFD4D4;
+    height:80px;
+    text-align:center;
+    line-height:80px;
+}
+
+/* .flip{margin:0px;padding:5px;text-align:center;background: rgb(233, 236, 230);;cursor:pointer;font-family:'Arial';}
+.panel{margin:0px;padding:5px;text-align:center;background:#e5eecc;border:solid 1px #c3c3c3;display:none;font-family:'Arial';} */
